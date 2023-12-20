@@ -17,5 +17,3 @@ for (let i = 1; i <= 100; i++) {
 listNumbers += '</ul>'
 
 target.innerHTML = listNumbers;
-
-// Controllo quali numeri siano multipli di 3
