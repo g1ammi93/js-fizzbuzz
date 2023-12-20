@@ -27,3 +27,12 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 Come abbiamo visto puoi  usare varie tecniche (style , className, classList)
  Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot fornito in consegna.
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
+
+
+
+<!-- Scompongo il problema -->
+
+1. Scrivo in console i numeri da uno a cento con un for
+2. Controllo i multipli di 3 ed ad ognuno metto la Scritta Fizz
+3. Controllo i multipli di 5 e ad ognuno metto la scritta Buzz
+4. Se un numero è multiplo si di uno che dell'altro metto la scritta FIzzBuzz
